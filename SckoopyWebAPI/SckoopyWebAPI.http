@@ -1,0 +1,6 @@
+@SckoopyWebAPI_HostAddress = http://localhost:5286
+
+GET {{SckoopyWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
